@@ -1,0 +1,9 @@
+C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe
+C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.pdb
+C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.csprojResolveAssemblyReference.cache
+C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
+C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Ejemplo1\Ejemplo1\bin\Debug\Ejemplo1.exe.config
+C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.exe
+C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Ejemplo1\Ejemplo1\obj\Debug\Ejemplo1.pdb
