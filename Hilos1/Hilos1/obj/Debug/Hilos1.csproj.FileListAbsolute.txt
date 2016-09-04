@@ -3,6 +3,3 @@ C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Hilos1\Hilos1\bi
 C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Hilos1\Hilos1\bin\Debug\Hilos1.pdb
 C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Hilos1\Hilos1\obj\Debug\Hilos1.exe
 C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Hilos1\Hilos1\obj\Debug\Hilos1.pdb
-C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Hilos1\Hilos1\bin\Debug\Hilos1.exe.config
-C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Hilos1\Hilos1\obj\Debug\Hilos1.exe
-C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Hilos1\Hilos1\obj\Debug\Hilos1.pdb

@@ -4,6 +4,3 @@ C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo2\Ejemplo
 C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.csprojResolveAssemblyReference.cache
 C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
 C:\Users\Sebastian\OneDrive\Documentos\Microsoft\STC2016\CSharp\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
-C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Ejemplo2\Ejemplo2\bin\Debug\Ejemplo2.exe.config
-C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.exe
-C:\Users\sebastian\Documents\CSHarp\STC\Programming-CSharp\Ejemplo2\Ejemplo2\obj\Debug\Ejemplo2.pdb
